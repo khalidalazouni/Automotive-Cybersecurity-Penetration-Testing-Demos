@@ -1,1 +1,1 @@
-This folder for estaplshing the network
+This folder for establishing the network
